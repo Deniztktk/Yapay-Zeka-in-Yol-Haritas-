@@ -88,3 +88,80 @@
 # 🚗 Araç: Kubeflow
 🙋‍♀️ Açıklama: Kubernetes üzerinde ML pipeline
 ❓ Kim Kullanılır:MLOps, büyük ölçekli
+
+
+----------------------------------------------------------------------------------
+# LLM ve Generatif AI Araçları
+
+
+# 🚗 Araç: LangChain
+🙋‍♀️ Açıklama: LLM uygulama çerçevesi; RAG, ajan sistemleri, tool use |
+
+
+----------------------------------------------------------------------------------
+# 🚗 Araç: LlamaIndex
+🙋‍♀️ Açıklama: Veri indeksleme ve RAG pipeline'ları |
+
+
+----------------------------------------------------------------------------------
+# 🚗 Araç: vLLM
+🙋‍♀️ Açıklama: Yüksek verimli LLM inference (PagedAttention) |
+
+
+----------------------------------------------------------------------------------
+# 🚗 Araç: Ollama
+🙋‍♀️ Açıklama: Lokal LLM çalıştırma |
+
+
+----------------------------------------------------------------------------------
+# 🚗 Araç: LiteLLM
+🙋‍♀️ Açıklama: 100+ LLM API'ı tek arayüzden yönetme
+
+
+----------------------------------------------------------------------------------
+# 🚗 Araç: Instructor
+🙋‍♀️ Açıklama: Yapılandırılmış LLM çıktısı (JSON schema)
+
+----------------------------------------------------------------------------------
+
+# Veri İşleme ve Altyapı
+
+
+# 🚗 Araç: Apache Spark 
+🙋‍♀️ Açıklama: Büyük veri dağıtık işleme
+
+
+----------------------------------------------------------------------------------
+# 🚗 Araç: Pandas / Polars 
+🙋‍♀️ Açıklama: Veri manipülasyonu (Polars çok daha hızlı, 2026'da yükseliyor)
+
+
+----------------------------------------------------------------------------------
+# 🚗 Araç: Apache Kafka
+🙋‍♀️ Açıklama: Gerçek zamanlı veri akışı
+
+
+----------------------------------------------------------------------------------
+# 🚗 Araç: Apache Airflow
+🙋‍♀️ Açıklama: İş akışı orkestrasyon
+
+
+----------------------------------------------------------------------------------
+# 🚗 Araç: dbt
+🙋‍♀️ Açıklama: Analytics engineering, SQL dönüşümleri 
+
+
+----------------------------------------------------------------------------------
+# 🚗 Araç: Docker 🐳
+🙋‍♀️ Açıklama: Konteynerizasyon — üretimde temel gereklilik 
+
+
+----------------------------------------------------------------------------------
+# 🚗 Araç: Kubernetes ☸️
+🙋‍♀️ Açıklama: Konteyner orkestrasyonu; MLOps için kritik
+
+
+----------------------------------------------------------------------------------
+# 🚗 Araç: Terraform 
+🙋‍♀️ Açıklama: Altyapı kodu olarak (IaC)
+
